@@ -1,0 +1,11 @@
+Package: tsME918
+Type: Package
+Title: Modelos de Previsao de Series Temporais
+Version: 0.1.0
+Author: Grupo H
+Maintainer: Daniela Konno <danikonno@gmail.com>
+Description: modelagem ARIMA e SARIMA para series temporais 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
